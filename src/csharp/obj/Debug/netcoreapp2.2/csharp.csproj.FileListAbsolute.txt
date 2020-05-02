@@ -1,0 +1,11 @@
+/Users/fran/Documents/Code/github/algorithm/src/csharp/obj/Debug/netcoreapp2.2/csharp.csprojAssemblyReference.cache
+/Users/fran/Documents/Code/github/algorithm/src/csharp/obj/Debug/netcoreapp2.2/csharp.csproj.CoreCompileInputs.cache
+/Users/fran/Documents/Code/github/algorithm/src/csharp/obj/Debug/netcoreapp2.2/csharp.AssemblyInfoInputs.cache
+/Users/fran/Documents/Code/github/algorithm/src/csharp/obj/Debug/netcoreapp2.2/csharp.AssemblyInfo.cs
+/Users/fran/Documents/Code/github/algorithm/src/csharp/bin/Debug/netcoreapp2.2/csharp.deps.json
+/Users/fran/Documents/Code/github/algorithm/src/csharp/bin/Debug/netcoreapp2.2/csharp.runtimeconfig.json
+/Users/fran/Documents/Code/github/algorithm/src/csharp/bin/Debug/netcoreapp2.2/csharp.runtimeconfig.dev.json
+/Users/fran/Documents/Code/github/algorithm/src/csharp/bin/Debug/netcoreapp2.2/csharp.dll
+/Users/fran/Documents/Code/github/algorithm/src/csharp/bin/Debug/netcoreapp2.2/csharp.pdb
+/Users/fran/Documents/Code/github/algorithm/src/csharp/obj/Debug/netcoreapp2.2/csharp.dll
+/Users/fran/Documents/Code/github/algorithm/src/csharp/obj/Debug/netcoreapp2.2/csharp.pdb
