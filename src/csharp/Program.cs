@@ -8,7 +8,8 @@ namespace csharp
         {
             System.Console.WriteLine(9%10);
             System.Console.WriteLine(1/10);
-            Test1();
+            //Test1();
+            BinarySearchTest();
             Console.WriteLine("Hello World!");
         }
 
@@ -22,6 +23,25 @@ namespace csharp
             //l2.next.next=new ListNode(4);
 
             Sloution.AddTwoNumbers(l1,l2);
+        }
+
+        static void BinarySearchTest()
+        {
+            var nums =new int[]{1,4,5,7,9,10,29,78,100};
+            if(nums.BinarySearchRecursive(29))
+                System.Console.WriteLine("29存在");
+
+            if(nums.BinarySearchRecursive(7))
+                System.Console.WriteLine("7存在");
+
+            if(nums.BinarySearchRecursive(4))
+                System.Console.WriteLine("4存在");
+            
+            if(nums.BinarySearchRecursive(30))
+                System.Console.WriteLine("30存在");
+
+            if(nums.BinarySearchRecursive(100))
+                System.Console.WriteLine("100存在");
         }
     }
 }
